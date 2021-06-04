@@ -9,6 +9,9 @@ I use Arch Linux (DWM) and Vim; for work/personal use.
 I'd love to collab on any project and bounce ideas around, so feel free to reach out to me through email!
   - *I won't, however, work for free on closed source projects!*
 
+
+**The status of our right to privacy matches our ability to express ourselves freely and without consequence.**
+
 <!--
 **carlos-miller-466/carlos-miller-466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
