@@ -1,4 +1,4 @@
-### Salutations,
+### Hello!
 
 I'm currently learning Rust, C++.
 
