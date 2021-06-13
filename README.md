@@ -4,12 +4,6 @@ I'm currently learning Rust, C++.
 
 I have knowledge in Python, Lua, Java, and LaTeX.
 
-I use Arch Linux (DWM) and Vim; for work/personal use.
-
-I'd love to collab on any project and bounce ideas around, so feel free to reach out to me through email!
-  - *I won't, however, work for free on closed source projects!*
-
-
 **The status of our right to privacy matches our ability to express ourselves freely and without consequence.**
 
 <!--
